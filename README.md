@@ -1,4 +1,4 @@
-"## Speech Enhancement using Deep Learning
+## Speech Enhancement using Deep Learning
 
 ### Overview
 This project focuses on single channel speech enhancement, where the goal is to reduce background noise from noisy speech signals using deep learning techniques. The project compares multiple deep learning models for noise suppression and speech quality improvement.
